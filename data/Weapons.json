@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"animationId":6,"description":"사과나 깎아먹어라.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":96,"name":"식칼","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":2},
+{"id":2,"animationId":113,"description":"강력하지만 원거리에서 명중률이 낮다.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":115,"name":"산탄총","note":"","params":[0,0,50,0,0,0,0,-5],"price":0,"wtypeId":2},
+{"id":3,"animationId":0,"description":"공격력이 매우 높지만 무겁다.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"석궁","note":"","params":[0,0,75,-10,0,0,0,0],"price":0,"wtypeId":2},
+{"id":4,"animationId":0,"description":"명중률이 가장 높지만 공격속도가 느리다.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":98,"name":"철퇴","note":"","params":[0,0,100,0,0,0,-15,0],"price":0,"wtypeId":2}
+]
